@@ -1,0 +1,31 @@
+    1. FUNCTIONAL Testing ensures the pencil's core functionality, confirming that it writes smoothly, creates marks of the expected color and thickness, and, if equipped with an eraser, erases effectively. To achieve this, the tester uses the pencil to assess the smoothness of writing, checks for the desired mark color and thickness, and tests the eraser's efficacy if applicable.
+
+    2. NON-FUNCTIONAL Testing evaluates various aspects such as build quality, durability, and aesthetics. The focus here is to assess the overall build quality, evaluate user comfort and ergonomics, and inspect design and labeling for the pencil to meet quality and aesthetic standards.
+
+    3. UNIT Testing focuses on verifying the functionality of individual components of the pencil. This includes Lead Unit Testing, where the lead's quality and performance are assessed, considering factors like lead hardness and resistance to breakage during writing. For pencils with erasers, the Eraser Unit Testing ensures that the eraser effectively removes pencil marks without smudging or tearing the paper, while also evaluating its durability. The Wooden Casing Unit Testing ensures the quality and durability of the wooden casing, including resistance to splintering or cracking during sharpening. For pencils with metal or plastic ferrules, the Ferrule Unit Testing examines its security, durability, and alignment. If the pencil has painted or coated exteriors, the Paint or Coating Unit Testing assesses paint or coating quality, checking for color consistency and resistance to chipping. The Attachment of Eraser Unit Testing (if applicable) ensures that the eraser is securely and evenly attached without gaps or misalignment. Lastly, the Stamping/Labeling Unit Testing verifies any stamped or labeled information, ensuring accurate branding and product details.
+
+    4. INTEGRATION Testing checks how various components work together, validating that the pencil functions correctly as a whole, including writing and erasing.
+
+    5. SMOKE Testing involves a quick check of basic functionality immediately upon manufacture to ensure that the pencil can write and erase without immediate issues.
+
+    6. SANITY Testing aims to confirm the correctness of specific features or characteristics, especially after design or material changes, ensuring that elements like the eraser function as expected.
+
+    7. REGRESSION Testing focuses on verifying basic functionality post-design or material changes, including writing and erasing capabilities, to ensure that such changes do not negatively impact the pencil's performance.
+
+    8. PERFORMANCE Testing evaluates the writing quality and lead durability, assessing the pencil's ability to write smoothly and create consistent marks over an extended period.
+
+    9. STRESS Testing examines the pencil's durability under excessive pressure, involving applying force while writing or attempting to break the pencil to assess its robustness.
+
+    10. WHITE BOX Testing inspects internal components and materials for quality and safety to ensure they meet manufacturing standards.
+
+    11. BLACK BOX Testing assesses external behavior without knowledge of internals, focusing on external functions like writing, erasing, and overall performance.
+
+    12. BOUNDRY Testing evaluates performance under different conditions, such as assessing the pencil's writing performance at various temperatures and humidity levels.
+
+    13. EXPLORATORY Testing uncovers unexpected issues or defects by using the pencil in unconventional ways and environments to identify potential problems.
+
+    14. AD HOC Testing identifies issues not apparent in typical usage by having testers use the pencil in unconventional ways or environments to discover potential issues.
+
+    15. ALPHA and BETA Testing involve gathering user feedback before wider release, where a select group of users provides feedback on performance, comfort, and the overall user experience.
+
+    16. ACCEPTANCE Testing conducts a final evaluation to verify that the pencil meets all quality standards and functional requirements, ensuring it is ready for mass production and distribution.
